@@ -1,4 +1,4 @@
-# Projeto React Design System 🧑🏻‍💻
+# Projeto React Design System 📚
 > Projeto da Rocketseat
 
 Consiste na construção de um Desing System de uma tela de login, utilizando o StoryBook para renderização de componentes e páginas isoladas.
