@@ -3,7 +3,7 @@
 
 Consiste na construção de um Desing System de uma tela de login, utilizando o StoryBook para renderização de componentes e páginas isoladas.
 
-* Construída utilizado Figma, React, TypeScript, React-Hooks, Tailwindcss e StoryBook.
+* Construído utilizado Figma, React, TypeScript, React-Hooks, Tailwindcss e StoryBook.
 
 ### Demonstração
 
